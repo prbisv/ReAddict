@@ -187,16 +187,16 @@
 <!--            android:fontFamily="@font/nunito_sans"-->
 <!--            android:backgroundTint="#20B2AA"/>-->
 
-        <Button
-            android:id="@+id/btnDeleteAcc"
-            android:layout_marginTop="15dp"
-            android:layout_width="365dp"
-            android:layout_height="60dp"
-            android:layout_gravity="center"
-            android:text="Logout"
-            android:textSize="16dp"
-            android:fontFamily="@font/nunito_sans"
-            android:backgroundTint="#CD5C5C"/>
+<!--        <Button-->
+<!--            android:id="@+id/btnDeleteAcc"-->
+<!--            android:layout_marginTop="15dp"-->
+<!--            android:layout_width="365dp"-->
+<!--            android:layout_height="60dp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:text="Logout"-->
+<!--            android:textSize="16dp"-->
+<!--            android:fontFamily="@font/nunito_sans"-->
+<!--            android:backgroundTint="#CD5C5C"/>-->
 
     </LinearLayout>
 

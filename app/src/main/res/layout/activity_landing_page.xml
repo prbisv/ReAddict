@@ -60,14 +60,14 @@
 <!--            android:textSize="16dp"-->
 <!--            android:drawableStart="@drawable/password"/>-->
 
-        <Button
-            android:id="@+id/btnLogin"
-            android:layout_width="365dp"
-            android:layout_height="60dp"
-            android:layout_gravity="center"
-            android:text="Login"
-            android:textSize="16dp"
-            android:fontFamily="@font/nunito_sans"/>
+<!--        <Button-->
+<!--            android:id="@+id/btnLogin"-->
+<!--            android:layout_width="365dp"-->
+<!--            android:layout_height="60dp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:text="Login"-->
+<!--            android:textSize="16dp"-->
+<!--            android:fontFamily="@font/nunito_sans"/>-->
 
 <!--        <TextView-->
 <!--            android:layout_width="match_parent"-->
